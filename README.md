@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FS Software Engineer | USMC Veteran
 -----------------------------------
 
-Ricky is a Full-Stack Software Engineer and currently transitioning out of the Marine Corps. after spending 9 years in Eastern North Carolina. While he is not coding or learning, he is spending time with his three kids and three dogs, and beautiful Wife. OR he is Squad'ing up with his brothers on Call of Duty and drinking RIPITs #downrangefuel
+Ricky is a Full-Stack Software Engineer and currently transitioning out of the Marine Corps after spending 9 years in Eastern North Carolina. While he is not coding or eating, he is spending time with his three kids, three dogs, and beautiful Wife. OR he is Squad'ing up with his brothers on Call of Duty and drinking RIPITs #downrangefuel
 
 * 🌍  I'm based in Eastern North Carolina
 * 🧠  I'm learning Python
